@@ -1,2 +1,2 @@
 # ml-scratch-perceptron
-Principle Component Analysis from scratch implementation
+Perceptron from scratch implementation
