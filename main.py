@@ -92,7 +92,7 @@ def main():
     # dataset hyperparameters
     dataset_name = 'Breast Cancer'
 
-    # load the iris dataset
+    # load the breast cancer dataset
     X, y, feature_names, class_names, X_train, X_test, y_train, y_test = datasets.load_breast_cancer()
 
     print(f'Loading {dataset_name} Dataset...')
